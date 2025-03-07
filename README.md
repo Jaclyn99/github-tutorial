@@ -14,6 +14,11 @@ Please follow the steps below:
 8. Take a screenshot of your GitHub forked repo with your README and template folders 
 9. You will receive a participation grade based on the existence of this branch with your README :) 
 
+
+This study investigated 6-year (2015 - 2021) changes in UBC Vancouver's campus buildings, canopy height and cover, and its impact on coyote activity, by leveraging building, LiDAR, and coyote sighting public data. This was achieved through three core steps: (A) processed building shapefiles to visualize historical campus construction, (B) analyzed LiDAR data to create canopy height models and plot canopy cover with tree height thresholds as variables for tracking height- and area-based vegetation changes, and (C) interpreted maps to examine the relationship between building development, trees growing, greenspace connectivity, and coyote sightings. 
+
+
+
 **You will receive a participation grade based on the existence of this branch with your README :)**
 
 testing commmits
